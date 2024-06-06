@@ -1,0 +1,451 @@
+,hotel name,city,score,review rate,reviews,room type,occupancy,Free cancellation,No prepayment needed,rooms left,price,location rate,bb included
+0,"Radisson Blu Hotel, Athlone",Athlone,7.9,Good,6092,Standard Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,5,259.0,No rated,Room Only
+1,Sheraton Athlone Hotel,Athlone,8.7,Excellent,5418,Classic King Room,1 king bed,Free cancellation,Prepayment needed,5,275.0, 9.4,Room Only
+2,Clayton Hotel Dublin Airport,Cloghran,8.3,Very Good,23489,Deluxe Double & Single Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,0,259.0,No rated,Room Only
+3,Lawlors Hotel,Naas,8.8,Excellent,2379,Twin Room,2 full beds,Free cancellation,No prepayment needed,2,329.0, 9.4,Room Only
+4,The Glendalough Hotel,Laragh,7.1,Good,989,Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,4,220.0, 9.5,Breakfast included
+5,Hannon's Hotel,Roscommon,7.7,Good,1061,Double Room,1 full bed,Free cancellation,Prepayment needed,4,135.0,No rated,Breakfast included
+6,"Mount Errigal Hotel, Conference & Leisure Centre",Letterkenny,7.6,Good,2473,Standard Twin Room,2 twin beds,Check Policy,Prepayment needed,0,135.0,No rated,Room Only
+7,Beckett Locke,"Dublin City Centre, Dublin",9.0,Wonderful,5887,Locke Studio,1 queen bed,Check Policy,Prepayment needed,0,296.0,No rated,Room Only
+8,The Glenbeigh Hotel,Glenbeigh,8.6,Excellent,893,Standard Twin Room,2 twin beds,Free cancellation,Prepayment needed,1,179.0,No rated,Breakfast included
+9,Talbot Hotel Clonmel,Clonmel,7.7,Good,1064,Double Room,1 full bed,Free cancellation,Prepayment needed,3,159.0,No rated,Room Only
+10,The Fitzwilton Hotel,Waterford,8.3,Very Good,2570,Double or Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,0,190.0,No rated,Room Only
+11,Fennessy's Hotel,Clonmel,7.1,Good,732,Twin Room,2 twin beds,Free cancellation,No prepayment needed,3,217.0,No rated,Room Only
+12,Maldron Hotel & Leisure Centre Limerick,Limerick,7.9,Good,70,King Room,1 full bed,Free cancellation,No prepayment needed,5,219.0,No rated,Room Only
+13,Hodson Bay Hotel,Athlone,7.9,Good,2151,Retreat with Lake View (Adults Only),1 queen bed,Check Policy,Prepayment needed,0,270.0,No rated,Room Only
+14,Clanree Hotel & Leisure Centre,Letterkenny,8.5,Very Good,2198,Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,0,135.0,No rated,Room Only
+15,Ashdown Park Hotel,Gorey,8.5,Very Good,1266,Classic Double or Twin Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,5,253.0,No rated,Breakfast included
+16,Carlton Hotel Dublin Airport,Cloghran,8.1,Very Good,3966,Classic Double Room,1 king bed,Check Policy,Prepayment needed,0,269.0,No rated,Room Only
+17,Woodlands Hotel & Leisure Centre,Waterford,8.1,Very Good,2610,Family Room,"3 beds (2 twins, 1 queen)",Free cancellation,No prepayment needed,2,209.0,No rated,Room Only
+18,"Powerscourt Hotel, Autograph Collection",Enniskerry,8.9,Excellent,1720,Guestroom with Two Single Beds,2 twin beds,Check Policy,Prepayment needed,0,450.0, 9.5,Room Only
+19,Maldron Hotel Dublin Airport,Cloghran,7.7,Good,11305,Twin Room,2 twin beds,Free cancellation,No prepayment needed,0,242.0,No rated,Room Only
+20,The Johnstown Estate,Enfield,8.5,Very Good,1221,Deluxe Twin Bedroom,2 twin beds,Check Policy,Prepayment needed,2,279.0,No rated,Breakfast included
+21,Maldron Hotel South Mall Cork City,Cork,8.4,Very Good,5148,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,6,250.0, 9.4,Room Only
+22,Imperial Hotel Cork City,Cork,8.7,Excellent,4401,Classic Double Room,1 full bed,Free cancellation,No prepayment needed,0,230.0, 9.6,Room Only
+23,"Belleek Castle, Ballina",Ballina,8.7,Excellent,448,Family Room,Multiple bed types,Check Policy,Prepayment needed,1,299.0, 9.3,Breakfast included
+24,The Lakeside Hotel & Leisure Centre,Killaloe,8.8,Excellent,1657,Superior Waterfront Room - Adult Only,1 king bed,Free cancellation,Prepayment needed,0,362.0, 9.4,Breakfast included
+25,Cavan Crystal Hotel,Cavan,8.7,Excellent,1627,Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,1,254.0,No rated,Breakfast included
+26,Maldron Hotel Tallaght,Tallaght,7.3,Good,2728,Double Room,1 full bed,Free cancellation,Prepayment needed,0,219.0,No rated,Room Only
+27,Louis Fitzgerald Hotel,Clondalkin,7.7,Good,4465,Double Room,1 full bed,Check Policy,Prepayment needed,0,159.0,No rated,Room Only
+28,Castle Arch Hotel,Trim,7.4,Good,1004,Double Room,1 full bed,Free cancellation,No prepayment needed,4,179.0,No rated,Breakfast included
+29,"Radisson Blu Hotel, Letterkenny",Letterkenny,8.8,Excellent,4907,Standard Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,0,199.0,No rated,Breakfast included
+30,Clonakilty Park Hotel,Clonakilty,8.4,Very Good,1094,Superior Family Room,"3 beds (2 twins, 1 king)",Free cancellation,Prepayment needed,1,239.0,No rated,Room Only
+31,"Radisson BLU Hotel & Spa, Little Island Cork",Cork,7.6,Good,4479,Standard Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,0,249.0,No rated,Room Only
+32,Radisson Blu Hotel Dublin Airport,Cloghran,8.0,Very Good,8010,Standard Room,1 full bed,Free cancellation,Prepayment needed,0,266.0,No rated,Room Only
+33,Mullingar Park Hotel,Mullingar,8.4,Very Good,869,Double Room,1 full bed,Check Policy,Prepayment needed,0,219.0,No rated,Breakfast included
+34,The Coachmans Inn,Roscommon,9.1,Wonderful,342,Standard Double Room,1 full bed,Free cancellation,No prepayment needed,0,99.0, 9.4,Room Only
+35,Leonardo Hotel Cork,Cork,8.3,Very Good,1037,Standard Double or Twin Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,0,270.0,No rated,Room Only
+36,Silver Tassie Hotel & Spa,Letterkenny,8.6,Excellent,1031,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,5,155.0,No rated,Breakfast included
+37,Lyrath Estate,Kilkenny,8.7,Excellent,2696,Estate View Guestroom,1 full bed,Check Policy,Prepayment needed,1,410.0,No rated,Breakfast included
+38,Clayton Hotel Limerick,"Limerick City Centre, Limerick",8.2,Very Good,2166,Double Room,1 full bed,Free cancellation,No prepayment needed,0,289.0,No rated,Room Only
+39,Killarney Towers Hotel & Leisure Centre,Killarney,8.6,Excellent,4221,Classic Double Room,1 full bed,Check Policy,Prepayment needed,1,229.0, 9.6,Room Only
+40,Motel One Dublin,"Dublin City Centre, Dublin",8.9,Excellent,5279,Standard King Room,1 king bed,Free cancellation,No prepayment needed,0,259.0, 9.7,Room Only
+41,The Savoy Hotel,"Limerick City Centre, Limerick",8.5,Very Good,2050,Deluxe King Room,1 king bed,Free cancellation,No prepayment needed,4,295.0, 9.4,Room Only
+42,Connemara Sands Hotel & Spa,Clifden,8.9,Excellent,521,Superior Two-Bedroom Suite,"4 beds (2 twins, 1 full, 1 sofa bed)",Free cancellation,No prepayment needed,1,330.0, 9.4,Breakfast included
+43,The Dean Galway,Galway,8.4,Very Good,2376,Mod Pod,1 full bed,Check Policy,Prepayment needed,5,349.0,No rated,Room Only
+44,Riverside Hotel,Sligo,8.6,Excellent,5734,Double Room,1 queen bed,Check Policy,Prepayment needed,5,199.0,No rated,Room Only
+45,Clayton Whites Hotel,Wexford,8.3,Very Good,119,Double & Single Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,1,219.0,No rated,Breakfast included
+46,Schull Harbour Hotel & Leisure Centre,Schull,8.5,Very Good,846,Superior Double or Twin Room,Multiple bed types,Check Policy,Prepayment needed,2,239.0, 9.5,Room Only
+47,Talbot Hotel Wexford,Wexford,8.4,Very Good,4369,Standard Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,5,209.0, 9.3,Room Only
+48,Maldron Hotel Sandy Road Galway,Galway,8.0,Very Good,4027,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,0,247.0,No rated,Room Only
+49,Marlin Hotel Stephens Green,"Saint Stephen's Green, Dublin",8.2,Very Good,11659,Cozy King Room,1 king bed,Free cancellation,No prepayment needed,0,249.0, 9.4,Room Only
+75,Castlemartyr Resort Hotel,Castlemartyr,8.7,Excellent,1440,Deluxe King or Twin Room,Multiple bed types,Free cancellation,No prepayment needed,6,329.0,No rated,Breakfast included
+76,CityNorth Hotel & Conference Centre,Gormanston,7.8,Good,707,DELUXE ROOM,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,0,177.0,No rated,Room Only
+77,Portmarnock Resort & Jameson Golf Links,Portmarnock,8.2,Very Good,2497,Classic Double Room,1 full bed,Free cancellation,No prepayment needed,4,259.0, 9.3,Room Only
+78,Abbey Hotel Roscommon,Roscommon,8.2,Very Good,1755,Double Room,1 queen bed,Check Policy,Prepayment needed,5,200.0,No rated,Breakfast included
+79,Clayton Hotel Galway,Galway,7.8,Good,4934,Deluxe Double & Single Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,0,239.0,No rated,Room Only
+80,Castle Hotel,"Parnell Square, Dublin",8.1,Very Good,10659,Double Room,1 full bed,Free cancellation,No prepayment needed,4,309.0,No rated,Breakfast included
+81,Fitzpatrick Castle Hotel,Dalkey,8.1,Very Good,1513,Family Room (2 Adults + 2 Children),2 queen beds,Free cancellation,No prepayment needed,5,259.0,No rated,Room Only
+82,Belvedere Hotel Parnell Square,"Parnell Square, Dublin",8.4,Very Good,3562,Deluxe Double & Single Room,"2 beds (1 twin, 1 queen)",Free cancellation,No prepayment needed,4,339.0,No rated,Room Only
+83,Midlands Park Hotel,Portlaoise,8.7,Excellent,3199,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,Prepayment needed,0,260.0,No rated,Room Only
+84,Flannery's Hotel,Galway,8.1,Very Good,6524,Twin Room,2 twin beds,Check Policy,Prepayment needed,0,221.0,No rated,Breakfast included
+85,Salthill Hotel,"Salthill, Galway",8.2,Very Good,3364,Classic Double Room,1 full bed,Free cancellation,Prepayment needed,0,324.0,No rated,Room Only
+86,Clayton Hotel Burlington Road,"Ballsbridge, Dublin",8.3,Very Good,9081,Standard King Room,1 king bed,Free cancellation,No prepayment needed,0,219.0,No rated,Room Only
+87,Parknasilla Resort & Spa,Sneem,9.0,Wonderful,1235,Double Room with Mountain View,1 full bed,Check Policy,Prepayment needed,2,355.0, 9.7,Breakfast included
+88,Great National Ballykisteen Golf Hotel,Tipperary,7.8,Good,1515,Double Room,1 full bed,Free cancellation,Prepayment needed,4,224.0,No rated,Room Only
+89,Cork International Hotel,Cork,8.7,Excellent,3837,Signature Double or Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,1,219.0,No rated,Room Only
+90,Talbot Hotel Carlow,Carlow,8.0,Very Good,1475,Family Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,3,280.0,No rated,Breakfast included
+91,The Glasshouse,Sligo,8.6,Excellent,4308,Double Room,1 full bed,Free cancellation,No prepayment needed,3,252.0, 9.6,Breakfast included
+92,The Croke Park Hotel,"Drumcondra, Dublin",8.7,Excellent,3769,Double Room,1 queen bed,Free cancellation,No prepayment needed,0,309.0,No rated,Room Only
+93,Royal Marine Hotel,Dun Laoghaire,8.2,Very Good,5510,Executive King Room,1 queen bed,Check Policy,Prepayment needed,2,249.0, 9.4,Room Only
+94,Clayton Hotel & Leisure Club Sligo,Sligo,8.1,Very Good,3306,Double Room with Extra Bed,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,0,209.0,No rated,Room Only
+95,Sligo Park Hotel & Leisure Club,Sligo,8.8,Excellent,1783,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,Prepayment needed,0,208.0,No rated,Room Only
+96,"Crowne Plaza Dublin Blanchardstown, an IHG Hotel",Blanchardstown,8.7,Excellent,1856,Standard  Room,1 full bed,Free cancellation,No prepayment needed,7,248.0,No rated,Room Only
+97,Maldron Hotel Shandon Cork City,Cork,7.7,Good,3200,Double and Single Bed Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,6,245.0,No rated,Room Only
+98,Academy Plaza Hotel,"Parnell Square, Dublin",8.1,Very Good,8692,Double Room,1 full bed,Free cancellation,No prepayment needed,6,299.0, 9.3,Room Only
+99,The Riverside Park Hotel,Enniscorthy,8.4,Very Good,3558,Family Room (2 Adults + 1 Child),"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,1,244.0,No rated,Room Only
+125,Station House Hotel Letterkenny,Letterkenny,8.7,Excellent,2311,Twin Room,2 twin beds,Free cancellation,No prepayment needed,1,173.0,No rated,Room Only
+126,Haddington House,Dun Laoghaire,9.0,Wonderful,1022,Standard Double or Twin Room,1 full bed,Free cancellation,Prepayment needed,1,325.0, 9.7,Room Only
+127,Clayton Hotel Cardiff Lane,"Dublin City Centre, Dublin",7.7,Good,10569,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,6,289.0,No rated,Room Only
+128,Eyre Square Hotel,Galway,7.3,Good,3540,Double Room,1 full bed,Free cancellation,Prepayment needed,0,319.0, 9.4,Room Only
+129,Brook Lane Hotel,Kenmare,9.2,Wonderful,950,Superior King Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,2,231.0, 9.4,Breakfast included
+130,Claregalway Hotel,Claregalway,8.5,Very Good,3709,Double Room,1 full bed,Free cancellation,No prepayment needed,0,219.0,No rated,Room Only
+131,Leonardo Hotel Dublin Parnell Street,"Dublin City Centre, Dublin",8.1,Very Good,1934,Standard Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,0,280.0,No rated,Room Only
+132,Leonardo Hotel Galway,Galway,8.3,Very Good,1666,Family Room (2 Adults + 2 Children),"2 beds (1 full, 1 sofa bed)",Free cancellation,Prepayment needed,0,399.0, 9.7,Room Only
+133,The Gibson Hotel,"Dublin City Centre, Dublin",8.6,Excellent,1201,Superior Double Room,1 full bed,Free cancellation,Prepayment needed,0,329.0, 9.3,Room Only
+134,Carrick Plaza Suites and Apartments,Carrick on Shannon,8.7,Excellent,1015,Classic Quadruple Room,4 twin beds,Check Policy,Prepayment needed,1,209.0, 9.6,Room Only
+135,Maldron Hotel Portlaoise,Portlaoise,7.8,Good,1941,Standard Double Single Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,3,199.0,No rated,Room Only
+136,"Treacys Oakwood Hotel, Shannon",Shannon,8.1,Very Good,1737,Triple Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,0,220.0,No rated,Room Only
+137,Bonnington Hotel & Leisure Centre,Dublin,7.5,Good,5317,Classic Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,0,312.0,No rated,Room Only
+138,Lawlors Hotel,Dungarvan,7.1,Good,1277,Double Room,1 full bed,Check Policy,Prepayment needed,0,222.0,No rated,Breakfast included
+139,Abbey Hotel Donegal,Donegal,7.7,Good,2241,Twin Room - Room Only,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,7,165.0,No rated,Room Only
+140,The River Lee Hotel a member of The Doyle Collection,Cork,8.7,Excellent,2393,Classic Double Room with River View,2 full beds,Check Policy,Prepayment needed,0,266.0, 9.3,Room Only
+141,Flynns of Termonfeckin Boutique Hotel,Termonfeckin,8.6,Excellent,1056,One-Bedroom Cottage,"2 beds (1 sofa bed, 1 queen)",Free cancellation,No prepayment needed,1,270.0,No rated,Breakfast included
+142,"Radisson BLU Hotel & Spa, Sligo",Sligo,8.5,Very Good,4299,Standard Room,Beds: 1 double or 2 twins,Free cancellation,Prepayment needed,0,213.0,No rated,Breakfast included
+143,Bush Hotel,Carrick on Shannon,8.4,Very Good,1678,Standard Double Room,1 full bed,Check Policy,Prepayment needed,1,279.0, 9.5,Room Only
+144,The Club at Goffs,Kill,9.2,Wonderful,543,Standard Twin Room,2 twin beds,Check Policy,Prepayment needed,4,330.0,No rated,Breakfast included
+145,The Montenotte Hotel,Cork,8.8,Excellent,2173,Executive Room,1 king bed,Free cancellation,No prepayment needed,0,325.0,No rated,Room Only
+146,Fairways Hotel Dundalk,Dundalk,8.5,Very Good,1624,Double or Twin Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,0,171.0,No rated,Room Only
+147,Leonardo Hotel Dublin Christchurch,"Dublin City Centre, Dublin",8.4,Very Good,1198,Standard Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,0,300.0, 9.6,Room Only
+148,The Glenside Hotel,Drogheda,8.5,Very Good,778,Family Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,2,207.0,No rated,Breakfast included
+149,Beresford Hotel,"Dublin City Centre, Dublin",7.5,Good,10962,Twin Room,2 twin beds,Check Policy,Prepayment needed,0,234.0,No rated,Room Only
+150,Killashee Hotel,Naas,8.4,Very Good,2714,Double or Twin Room,2 full beds,Free cancellation,No prepayment needed,3,265.0,No rated,Breakfast included
+151,Mulroy Woods Hotel,Milford,7.9,Good,565,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,4,129.0,No rated,Breakfast included
+152,Kilronan Castle Hotel & Spa,Ballyfarnon,8.9,Excellent,1651,Classic King Room,1 king bed,Check Policy,Prepayment needed,3,229.0,No rated,Breakfast included
+153,Clybaun Hotel,"Salthill, Galway",8.0,Very Good,3375,Standard Double/Twin Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,4,269.0,No rated,Room Only
+154,The Gateway Hotel,Dundalk,8.5,Very Good,1288,Twin Room,2 full beds,Free cancellation,No prepayment needed,0,208.0,No rated,Room Only
+155,Aherlow House Hotel & Lodges,Aherlow,8.2,Very Good,1283,Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,3,185.0,No rated,Breakfast included
+156,Woodford Dolmen Hotel Carlow,Carlow,8.2,Very Good,1479,Double Room,1 full bed,Free cancellation,No prepayment needed,2,209.0,No rated,Breakfast included
+157,Arlington Hotel O'Connell Bridge,"Dublin City Centre, Dublin",8.0,Very Good,6757,Standard Double Room,1 full bed,Check Policy,Prepayment needed,4,255.0, 9.6,Room Only
+158,Dingle Bay Hotel,Dingle,8.8,Excellent,1421,Double Room,1 full bed,Free cancellation,No prepayment needed,1,259.0, 9.7,Breakfast included
+159,The Fleet,"Temple Bar, Dublin",8.4,Very Good,5950,Deluxe Double Room,1 full bed,Check Policy,Prepayment needed,1,374.0, 9.6,Room Only
+160,Clayton Hotel Charlemont,"Dublin City Centre, Dublin",8.7,Excellent,5123,Deluxe Double,1 full bed,Free cancellation,No prepayment needed,1,259.0,No rated,Room Only
+161,Maldron Hotel Kevin Street,"Dublin City Centre, Dublin",8.2,Very Good,6926,Deluxe Twin Room,2 twin beds,Free cancellation,No prepayment needed,4,315.0,No rated,Room Only
+162,Staycity Aparthotels Dublin City Quay,"Dublin City Centre, Dublin",8.6,Excellent,6202,Studio,Multiple bed types,Free cancellation,No prepayment needed,0,300.0,No rated,Room Only
+163,Knightsbrook Hotel & Golf Resort,Trim,7.7,Good,1050,Deluxe Twin Room,2 twin beds,Free cancellation,No prepayment needed,1,259.0,No rated,Room Only
+164,Carton House A Fairmont Managed hotel,Maynooth,9.0,Wonderful,885,Fairmont Signature Suite,1 king bed,Free cancellation,No prepayment needed,1,4020.0, 9.4,Room Only
+165,Clayton Hotel Silver Springs,Cork,7.5,Good,2619,Deluxe Double Room,1 full bed,Check Policy,Prepayment needed,0,170.0,No rated,Room Only
+166,The Samuel Hotel,"Dublin City Centre, Dublin",8.5,Very Good,9671,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,4,339.0,No rated,Room Only
+167,Armada Hotel,Spanish Point,9.1,Wonderful,816,Twin Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,3,336.0, 9.7,Breakfast included
+168,An Grianan Hotel,Burt,8.9,Excellent,1083,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,4,162.0,No rated,Breakfast included
+169,Emmet Hotel,Clonakilty,8.7,Excellent,776,Family Room,"3 beds (2 twins, 1 full)",Free cancellation,Prepayment needed,1,269.0, 9.6,Room Only
+170,Kildare House Hotel,Kildare,8.3,Very Good,1345,Double Room,1 full bed,Check Policy,Prepayment needed,3,176.0,No rated,Room Only
+171,The Spencer Hotel,"Dublin City Centre, Dublin",8.4,Very Good,3838,Classic Queen Room,1 queen bed,Free cancellation,No prepayment needed,0,268.0,No rated,Room Only
+172,"Holiday Inn Express Dublin City Centre, an IHG Hotel","Parnell Square, Dublin",8.5,Very Good,6960,Room allocated on arrival,1 queen bed,Check Policy,Prepayment needed,5,283.0, 9.5,Breakfast included
+173,Radisson Blu St. Helen's Hotel,Stillorgan,8.2,Very Good,2920,Standard Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,0,216.0,No rated,Room Only
+174,The Old Quarter Townhouse,"Limerick City Centre, Limerick",8.2,Very Good,5693,Double Room,1 full bed,Free cancellation,No prepayment needed,2,219.0,No rated,Room Only
+175,Temple Bar Hotel,"Temple Bar, Dublin",8.2,Very Good,4791,Budget Double Room,1 full bed,Free cancellation,No prepayment needed,3,399.0, 9.6,Room Only
+176,The Address Connolly,"Dublin City Centre, Dublin",8.1,Very Good,4167,Double Room,1 king bed,Free cancellation,Prepayment needed,0,342.0,No rated,Room Only
+177,Maldron Hotel Parnell Square,"Parnell Square, Dublin",8.3,Very Good,9740,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,0,359.0,No rated,Room Only
+178,Mill Park Hotel,Donegal,9.0,Wonderful,2975,Triple Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,0,225.0,No rated,Breakfast included
+179,Drury Court Hotel,"Saint Stephen's Green, Dublin",9.0,Wonderful,3725,Twin Room,2 twin beds,Free cancellation,No prepayment needed,3,289.0, 9.8,Room Only
+180,Westenra Arms Hotel,Monaghan,8.4,Very Good,810,Standard Double Room,1 full bed,Check Policy,Prepayment needed,3,185.0, 9.4,Room Only
+181,Ballyliffin Hotel,Ballyliffin,8.0,Very Good,642,Double Room,1 full bed,Free cancellation,No prepayment needed,4,180.0,No rated,Breakfast included
+182,Iveagh Garden Hotel,"Saint Stephen's Green, Dublin",8.6,Excellent,3951,Deluxe Double Room,1 queen bed,Check Policy,Prepayment needed,0,278.0, 9.4,Room Only
+183,Great National Hotel Ballina,Ballina,7.8,Good,1984,Deluxe Double Room,1 king bed,Free cancellation,No prepayment needed,4,189.0,No rated,Room Only
+184,Jackson's Hotel & Leisure Centre,Ballybofey,8.1,Very Good,1146,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,2,194.0,No rated,Room Only
+185,Hotel 7,"Parnell Square, Dublin",8.9,Excellent,4415,Twin Room,2 twin beds,Free cancellation,No prepayment needed,2,329.0,No rated,Room Only
+186,Temple Bar Inn,"Temple Bar, Dublin",8.5,Very Good,4662,Twin Room,2 twin beds,Free cancellation,No prepayment needed,1,269.0, 9.6,Room Only
+187,Hibernian Hotel & Leisure Centre,Mallow,7.3,Good,857,Standard Triple Room,"2 beds (1 twin, 1 queen)",Free cancellation,No prepayment needed,4,176.0,No rated,Room Only
+188,Inishowen Gateway Hotel,Buncrana,8.4,Very Good,1048,Double or Twin Room,Multiple bed types,Check Policy,Prepayment needed,1,179.0,No rated,Room Only
+189,Westport Country Lodge Hotel,Westport,8.2,Very Good,1266,Twin Room,"2 beds (1 twin, 1 king)",Check Policy,Prepayment needed,7,219.0,No rated,Breakfast included
+190,The Ashe Hotel,Tralee,9.0,Wonderful,1937,Deluxe  Super Twin Room,2 twin beds,Check Policy,Prepayment needed,2,280.0, 9.4,Breakfast included
+191,Dillon’s Hotel,Letterkenny,8.5,Very Good,2067,Deluxe Family Room,Multiple bed types,Free cancellation,No prepayment needed,4,300.0, 9.4,Breakfast included
+192,Trim Castle Hotel,Trim,8.5,Very Good,1223,Deluxe Double Room,1 full bed,Check Policy,Prepayment needed,2,260.0, 9.3,Breakfast included
+193,The Hendrick Smithfield,"Dublin City Centre, Dublin",7.9,Good,5861,Double Room,1 queen bed,Check Policy,Prepayment needed,0,251.0,No rated,Room Only
+194,NYX Hotel Dublin Portobello,"Dublin City Centre, Dublin",8.8,Excellent,1768,Superior King Room,1 king bed,Free cancellation,Prepayment needed,0,296.0,No rated,Room Only
+195,Kettles Country House Hotel,Swords,8.6,Excellent,1910,Triple Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,1,239.0,No rated,Room Only
+196,Shamrock Lodge Hotel,Athlone,8.4,Very Good,2116,Two Bedroom Suite (4 Adults),Multiple bed types,Free cancellation,Prepayment needed,1,320.0,No rated,Room Only
+197,Forty Four Main Street,Swords,8.1,Very Good,1553,Standard Double Room,1 full bed,Check Policy,Prepayment needed,0,220.0,No rated,Room Only
+198,Grand Canal Hotel,"Ballsbridge, Dublin",8.7,Excellent,5330,Twin Room,2 twin beds,Free cancellation,Prepayment needed,0,240.0,No rated,Room Only
+199,Hampton By Hilton Dublin City Centre,"Dublin City Centre, Dublin",8.6,Excellent,6603,Queen Room,1 queen bed,Check Policy,Prepayment needed,0,265.0,No rated,Breakfast included
+200,The Frontier Hotel,Bridgend,8.3,Very Good,564,Double Room,1 full bed,Check Policy,Prepayment needed,4,131.0,No rated,Breakfast included
+201,Glenroyal Hotel,Maynooth,8.1,Very Good,3587,Deluxe King Room,1 full bed,Free cancellation,Prepayment needed,7,248.0,No rated,Room Only
+202,Lahinch Coast Hotel and Suites,Lahinch,8.6,Excellent,2568,Twin Room,2 twin beds,Free cancellation,Prepayment needed,1,184.0, 9.5,Room Only
+203,Ballymascanlon Hotel and Golf Resort,Dundalk,8.5,Very Good,1085,Double Room,1 full bed,Free cancellation,No prepayment needed,1,265.0,No rated,Breakfast included
+204,The Ellison,Castlebar,8.5,Very Good,1303,Deluxe King Room,1 queen bed,Free cancellation,Prepayment needed,1,274.0,No rated,Room Only
+205,"Maldron Hotel, Newlands Cross",Clondalkin,8.2,Very Good,135,Deluxe Double Room,1 full bed,Free cancellation,Prepayment needed,0,214.0,No rated,Room Only
+206,Clayton Hotel Liffey Valley,Clondalkin,7.3,Good,947,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,0,309.0,No rated,Room Only
+207,Travelodge Dublin Airport North 'Swords',Swords,6.9,Not Good,4753,Triple Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,0,189.0,No rated,Room Only
+208,Diamond Coast Hotel,Enniscrone,8.7,Excellent,727,Family Room,2 full beds,Free cancellation,No prepayment needed,0,280.0,No rated,Breakfast included
+209,McWilliam Park Hotel,Claremorris,8.1,Very Good,1372,Double Room,1 full bed,Check Policy,Prepayment needed,0,161.0,No rated,Room Only
+210,Kee's Hotel,Stranorlar,8.3,Very Good,2028,Double Room,1 full bed,Check Policy,Prepayment needed,1,155.0,No rated,Breakfast included
+211,"Castlecourt Hotel, Spa & Leisure",Westport,8.7,Excellent,1562,Double Room,1 full bed,Check Policy,Prepayment needed,0,389.0, 9.5,Breakfast included
+212,The Heritage,Killenard,8.7,Excellent,1920,Standard Double Room,1 king bed,Check Policy,Prepayment needed,0,303.0,No rated,Breakfast included
+213,Maldron Hotel Merrion Road,Dublin,8.6,Excellent,3515,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,0,259.0,No rated,Room Only
+214,Hilton Garden Inn Dublin City Centre,"Dublin City Centre, Dublin",8.3,Very Good,4683,King Room,1 king bed,Check Policy,Prepayment needed,6,281.0,No rated,Room Only
+215,Commodore Hotel,Cobh,8.2,Very Good,2226,Superior Queen Room,1 full bed,Free cancellation,Prepayment needed,1,195.0, 9.5,Room Only
+216,Camden Court Hotel,"Dublin City Centre, Dublin",8.6,Excellent,6769,Double Room,1 full bed,Free cancellation,No prepayment needed,5,393.0,No rated,Room Only
+217,Midleton Park Hotel,Midleton,8.3,Very Good,1979,Classic Double Room,1 queen bed,Free cancellation,Prepayment needed,3,189.0,No rated,Room Only
+218,Grand Hotel,Malahide,8.3,Very Good,3067,Superior Twin Room,2 twin beds,Free cancellation,Prepayment needed,1,285.0, 9.5,Room Only
+219,Albany House,"Saint Stephen's Green, Dublin",8.3,Very Good,2991,Double Room,1 full bed,Free cancellation,Prepayment needed,5,315.0, 9.3,Room Only
+220,Absolute Hotel Limerick,"Limerick City Centre, Limerick",8.8,Excellent,3253,Classic Double Room,1 queen bed,Free cancellation,Prepayment needed,2,269.0,No rated,Room Only
+221,The Kenmare Bay Hotel & Leisure Resort,Kenmare,8.2,Very Good,2031,Deluxe Double and Single Bed Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,2,239.0,No rated,Room Only
+222,Blooms Hotel,"Temple Bar, Dublin",7.5,Good,5399,Double Room,1 full bed,Free cancellation,Prepayment needed,1,279.0, 9.5,Room Only
+223,Ballina Manor Hotel,Ballina,8.0,Very Good,1281,Double Room with Street View,1 full bed,Free cancellation,No prepayment needed,4,269.0,No rated,Breakfast included
+224,Redcastle Hotel,Moville,8.1,Very Good,1722,Double or Twin Room,Multiple bed types,Check Policy,Prepayment needed,5,268.0,No rated,Room Only
+225,Granville Hotel,Waterford,8.8,Excellent,3308,King Room,1 king bed,Free cancellation,No prepayment needed,1,225.0, 9.6,Room Only
+226,Loughrea Hotel & Spa,Loughrea,8.2,Very Good,822,Deluxe King Room,1 king bed,Check Policy,Prepayment needed,6,214.0,No rated,Breakfast included
+227,Crown Quarter,Wexford,8.5,Very Good,1763,Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,4,189.0, 9.4,Room Only
+228,Old Ground Hotel,Ennis,8.8,Excellent,1332,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,4,225.0, 9.6,Room Only
+229,Maldron Hotel Wexford,Wexford,7.6,Good,2181,Triple Room,2 full beds,Free cancellation,No prepayment needed,3,205.0,No rated,Room Only
+230,Wren Urban Nest,"Dublin City Centre, Dublin",8.8,Excellent,7767,Cozy Nest,1 full bed,Free cancellation,No prepayment needed,0,269.0, 9.8,Room Only
+231,The Great Northern Hotel,Bundoran,7.5,Good,1118,Double Room,1 full bed,Check Policy,Prepayment needed,0,215.0,No rated,Breakfast included
+232,Osprey Hotel,Naas,8.0,Very Good,1684,Classic Double Room,1 king bed,Check Policy,Prepayment needed,0,250.0,No rated,Breakfast included
+233,The Trinity City Hotel,"Dublin City Centre, Dublin",8.3,Very Good,4417,Double Room,1 full bed,Free cancellation,No prepayment needed,0,296.0, 9.4,Room Only
+234,The Ritz House,Lisdoonvarna,8.3,Very Good,366,Standard Family Room,2 full beds,Check Policy,Prepayment needed,1,275.0,No rated,Breakfast included
+235,Kinsale Hotel & Spa,Kinsale,8.4,Very Good,1789,Classic Family Room (2 Adults + 1 Child),"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,1,319.0,No rated,Breakfast included
+236,The Harbour Inn,Buncrana,9.1,Wonderful,1738,Triple Room,3 twin beds,Free cancellation,No prepayment needed,2,155.0,No rated,Room Only
+237,Bracken Court Hotel,Balbriggan,8.3,Very Good,1437,Double Room,1 full bed,Free cancellation,Prepayment needed,6,204.0,No rated,Breakfast included
+238,Herbert Park Hotel and Park Residence,"Ballsbridge, Dublin",8.6,Excellent,5089,Double room,2 full beds,Free cancellation,Prepayment needed,0,256.0,No rated,Room Only
+239,Hotel Woodstock Ennis,Ennis,7.8,Good,1151,Superior Double Room,1 queen bed,Check Policy,Prepayment needed,3,215.0,No rated,Room Only
+240,Oranmore Lodge Hotel Conference And Leisure Centre Galway,Oranmore,8.1,Very Good,2408,Double or Twin Room,2 full beds,Free cancellation,Prepayment needed,4,205.0,No rated,Room Only
+241,Radisson Blu Royal Hotel Dublin,"Dublin City Centre, Dublin",8.8,Excellent,2803,Premium Room,1 king bed,Check Policy,Prepayment needed,3,401.0, 9.3,Room Only
+242,Shearwater Hotel & Spa,Ballinasloe,8.5,Very Good,652,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,1,149.0,No rated,Room Only
+243,Tulfarris Hotel and Golf Resort,Blessington,8.4,Very Good,758,Deluxe Double Room,1 full bed,Free cancellation,Prepayment needed,3,259.0,No rated,Breakfast included
+244,Cliffs of Moher Hotel,Liscannor,8.7,Excellent,845,Standard Double or Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,2,220.0,No rated,Room Only
+245,Breaffy House Hotel and Spa,Castlebar,8.4,Very Good,1646,Family Room (2 Adults + 1 Child),"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,2,244.0,No rated,Breakfast included
+246,Clayton Hotel Leopardstown,Leopardstown,7.7,Good,4894,Deluxe Family Room,"3 beds (2 twins, 1 full)",Free cancellation,No prepayment needed,0,218.0,No rated,Room Only
+247,Harding Hotel,"Temple Bar, Dublin",8.6,Excellent,3429,Double or Twin Room,Multiple bed types,Free cancellation,No prepayment needed,1,259.0, 9.6,Room Only
+248,Staycity Aparthotels Dublin Tivoli,"Dublin City Centre, Dublin",8.9,Excellent,5780,Studio,1 queen bed,Check Policy,Prepayment needed,0,256.0,No rated,Room Only
+249,Mespil Hotel,"Ballsbridge, Dublin",8.9,Excellent,3398,Superior King Room,1 king bed,Free cancellation,No prepayment needed,3,229.0,No rated,Room Only
+250,Ard Ri House Hotel,Tuam,8.2,Very Good,322,Twin Room,Multiple bed types,Free cancellation,No prepayment needed,5,209.0,No rated,Breakfast included
+251,Talbot Hotel Stillorgan,Stillorgan,8.0,Very Good,3428,Double Room,1 full bed,Free cancellation,Prepayment needed,2,169.0,No rated,Room Only
+252,Errigal Country House Hotel,Cootehill,7.7,Good,391,Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,6,207.0,No rated,Breakfast included
+253,"Crowne Plaza Dublin Airport, an IHG Hotel",Santry,8.7,Excellent,1887,Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,0,215.0,No rated,Room Only
+254,Boyne Valley Hotel - Bed & Breakfast Only,Drogheda,7.9,Good,1213,Superior Double Room,1 queen bed,Free cancellation,Prepayment needed,0,205.0,No rated,Breakfast included
+255,Murphy's Hotel,Tobercurry,8.3,Very Good,560,Twin Room,Multiple bed types,Free cancellation,Prepayment needed,1,146.0,No rated,Breakfast included
+256,Seven Oaks Hotel,Carlow,7.8,Good,900,Double Room,1 full bed,Free cancellation,Prepayment needed,1,199.0,No rated,Breakfast included
+257,Cassidys Hotel,"Parnell Square, Dublin",8.3,Very Good,4364,Double Room,1 full bed,Check Policy,Prepayment needed,4,269.0, 9.3,Room Only
+258,The Shirley Arms Hotel,Carrickmacross,8.9,Excellent,499,Double Room,1 full bed,Free cancellation,No prepayment needed,6,209.0,No rated,Breakfast included
+259,Aghadoe Heights Hotel & Spa,"Aghadoe, Killarney",8.5,Very Good,1178,Garden Superior Room,1 king bed,Check Policy,Prepayment needed,1,549.0,No rated,Breakfast included
+260,"Westport Plaza Hotel, Spa & Leisure",Westport,8.8,Excellent,1011,King Room,1 king bed,Check Policy,Prepayment needed,0,297.0, 9.6,Breakfast included
+261,Athlone Springs Hotel,Athlone,8.3,Very Good,1475,Classic double room,1 full bed,Free cancellation,Prepayment needed,0,244.0,No rated,Room Only
+262,Fitzpatrick's Tavern and Hotel,Cavan,7.9,Good,190,Deluxe Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,4,125.0,No rated,Breakfast included
+263,Treacy's Hotel Wexford,Enniscorthy,7.1,Good,733,Double Room,1 full bed,Check Policy,Prepayment needed,4,179.0,No rated,Breakfast included
+264,Faithlegg Hotel,Waterford,8.8,Excellent,2014,Twin Room,2 twin beds,Free cancellation,No prepayment needed,1,309.0,No rated,Breakfast included
+265,Kilkenny Ormonde Hotel,"Kilkenny City Centre, Kilkenny",8.1,Very Good,2508,Classic Room,"2 beds (1 twin, 1 queen)",Free cancellation,Prepayment needed,5,289.0, 9.5,Room Only
+266,The Bowers Bar & Restaurant,Ballinrobe,8.2,Very Good,357,Double Room,1 full bed,Free cancellation,No prepayment needed,1,110.0,No rated,Breakfast included
+267,Kilcoran Lodge Hotel & Leisure Centre,Cahir,7.7,Good,617,Triple Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,4,165.0,No rated,Room Only
+268,Plaza Hotel Tallaght,Tallaght,8.4,Very Good,1251,Twin Room,2 twin beds,Free cancellation,No prepayment needed,3,199.0,No rated,Room Only
+269,Marine Hotel,Sutton,7.7,Good,1591,Superior Double Room with Sea View,1 king bed,Check Policy,Prepayment needed,0,278.0,No rated,Room Only
+270,"Four Seasons Hotel, Carlingford",Carlingford,8.4,Very Good,617,Executive Twin Room,2 twin beds,Free cancellation,No prepayment needed,1,340.0, 9.5,Breakfast included
+271,Trinity Townhouse Hotel,"Saint Stephen's Green, Dublin",9.1,Wonderful,1787,Small Double Room,1 full bed,Check Policy,Prepayment needed,4,724.0, 9.8,Breakfast included
+272,Celtic Ross Hotel & Leisure Centre,Rosscarbery,8.0,Very Good,403,Twin Room,2 twin beds,Free cancellation,No prepayment needed,1,199.0,No rated,Room Only
+273,"The Morrison Dublin, Curio Collection by Hilton","Dublin City Centre, Dublin",8.7,Excellent,1770,Superior King Room,1 king bed,Check Policy,Prepayment needed,3,302.0, 9.6,Room Only
+274,The Dean Cork,Cork,8.7,Excellent,3996,Super Rooms,1 queen bed,Check Policy,Prepayment needed,0,233.0,No rated,Room Only
+275,Clifden Station House Hotel,Clifden,8.6,Excellent,836,Standard Double or Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,1,251.0, 9.4,Breakfast included
+276,"Maldron Hotel & Leisure Centre, Oranmore Galway",Oranmore,8.0,Very Good,2235,Double Room,1 full bed,Free cancellation,No prepayment needed,0,199.0,No rated,Room Only
+277,Harvey's Point,Donegal,9.5,Exceptional,800,Executive Twin Suite,2 queen beds,Check Policy,Prepayment needed,1,360.0, 9.5,Breakfast included
+278,Raheen Woods Hotel,Athenry,8.7,Excellent,1314,Double Room,1 queen bed,Free cancellation,No prepayment needed,6,184.0,No rated,Room Only
+279,The Gateway Hotel,Swinford,8.2,Very Good,439,Double Room,1 full bed,Free cancellation,No prepayment needed,3,170.0,No rated,Breakfast included
+280,The K Club,Straffan,9.1,Wonderful,493,Luxury Double or Twin Room,Multiple bed types,Check Policy,Prepayment needed,0,519.0, 9.6,Breakfast included
+281,Mulcahys,Clonmel,8.7,Excellent,404,Double Room,1 full bed,Free cancellation,No prepayment needed,2,150.0, 9.3,Room Only
+282,Killarney Court Hotel,Killarney,8.1,Very Good,3620,Standard Double Room,1 full bed,Free cancellation,No prepayment needed,2,209.0,No rated,Room Only
+283,"The Dunraven, Adare",Adare,8.5,Very Good,721,Superior Double Room,1 full bed,Free cancellation,Prepayment needed,1,295.0, 9.3,Breakfast included
+284,Garryvoe Hotel,Ballycotton,8.5,Very Good,327,Classic double room,1 full bed,Free cancellation,Prepayment needed,0,248.0, 9.4,Room Only
+285,The Chancery Hotel,"Dublin City Centre, Dublin",9.2,Wonderful,227,Standard Double Room,1 full bed,Free cancellation,No prepayment needed,3,280.0, 9.6,Room Only
+286,Clayton Hotel Cork City,Cork,8.1,Very Good,4617,Deluxe Double & Single Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,0,265.0,No rated,Room Only
+287,The Town House Hotel,Naas,7.8,Good,482,Twin Room,2 twin beds,Check Policy,Prepayment needed,1,162.0,No rated,Breakfast included
+288,The Lodge at Woodenbridge,Arklow,8.3,Very Good,949,Standard Double & Single Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,1,186.0,No rated,Room Only
+289,Hotel Kilkenny,Kilkenny,8.0,Very Good,1719,Triple Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,4,275.0,No rated,Room Only
+290,Baileys Hotel Cashel,Cashel,8.9,Excellent,634,Penthouse Suite,"2 beds (1 king, 1 sofa bed)",Free cancellation,No prepayment needed,1,395.0, 9.5,Breakfast included
+291,Moxy Dublin City,"Dublin City Centre, Dublin",8.3,Very Good,2721,Queen Room,1 queen bed,Free cancellation,No prepayment needed,4,279.0, 9.3,Room Only
+292,An Cruiscin Lan,Spiddal,7.6,Good,616,Twin Room with Bathroom,2 twin beds,Free cancellation,Prepayment needed,1,220.0,No rated,Breakfast included
+293,The Listowel Arms Hotel,Listowel,8.4,Very Good,439,Standard Double Room,1 full bed,Free cancellation,No prepayment needed,6,240.0, 9.4,Breakfast included
+294,Staycity Aparthotels Dublin Mark Street,"Dublin City Centre, Dublin",8.8,Excellent,4303,Studio,1 queen bed,Check Policy,Prepayment needed,0,275.0,No rated,Room Only
+295,Blarney Woollen Mills Hotel - BW Signature Collection,Blarney,8.7,Excellent,1724,Classic King Room,1 king bed,Check Policy,Prepayment needed,1,266.0, 9.3,Breakfast included
+296,Pillo Hotel & Leisure Club,Ashbourne,7.6,Good,1471,Double Room,1 full bed,Check Policy,Prepayment needed,0,260.0,No rated,Room Only
+297,Woodenbridge Hotel,Arklow,8.4,Very Good,1701,Standard Hotel Room,1 full bed,Check Policy,Prepayment needed,3,205.0,No rated,Room Only
+298,Kiltimagh Park Hotel,Kiltimagh,8.8,Excellent,991,Double Room,Beds: 1 double or 2 twins,Free cancellation,No prepayment needed,0,151.0,No rated,Breakfast included
+299,Hyatt Centric The Liberties Dublin,"Dublin City Centre, Dublin",8.9,Excellent,3336,King Room,1 king bed,Check Policy,Prepayment needed,6,310.0,No rated,Room Only
+300,Scholars Townhouse Hotel,Drogheda,8.8,Excellent,680,Double Room,1 full bed,Free cancellation,Prepayment needed,1,199.0,No rated,Room Only
+301,Delphi Lodge,Leenaun,9.3,Wonderful,119,Double Room,1 full bed,Check Policy,Prepayment needed,2,359.0, 9.7,Breakfast included
+302,Base Dingle,Dingle,8.8,Excellent,760,Deluxe King Room,1 queen bed,Check Policy,Prepayment needed,1,295.0, 9.7,Room Only
+303,The Lodge at Ashford Castle,Cong,9.1,Wonderful,629,Superior Deluxe Double or Twin Room,2 twin beds,Check Policy,Prepayment needed,2,415.0, 9.6,Breakfast included
+304,Devon Inn Hotel,Templeglantine,8.1,Very Good,159,Twin Room,2 twin beds,Free cancellation,No prepayment needed,1,170.0,No rated,Breakfast included
+305,Hilton Dublin Kilmainham,Dublin,8.6,Excellent,1997,Double Room,1 full bed,Check Policy,Prepayment needed,0,288.0,No rated,Room Only
+306,Arthaus Hotel,"Saint Stephen's Green, Dublin",8.7,Excellent,2073,Standard Queen Room,1 queen bed,Free cancellation,No prepayment needed,3,399.0, 9.6,Room Only
+307,Castle Dargan Hotel,Sligo,8.1,Very Good,1363,Castle Dargan Executive Junior Room,1 full bed,Free cancellation,No prepayment needed,1,179.0,No rated,Breakfast included
+308,Gullane's Hotel,Ballinasloe,8.8,Excellent,1064,Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,2,169.0,No rated,Breakfast included
+309,Cliff House Hotel,Ardmore,9.1,Wonderful,722,Deluxe Room with Sea View,1 full bed,Check Policy,Prepayment needed,1,664.0, 9.6,Breakfast included
+310,Carrickdale Hotel & Spa,Dundalk,8.2,Very Good,917,Double Room,1 full bed,Free cancellation,No prepayment needed,3,229.0,No rated,Room Only
+311,Schoolhouse Hotel,"Ballsbridge, Dublin",8.6,Excellent,1937,Deluxe King Room,1 king bed,Free cancellation,No prepayment needed,1,419.0,No rated,Room Only
+312,Club House Hotel Kilkenny,"Kilkenny City Centre, Kilkenny",7.4,Good,2413,Double Room,1 full bed,Free cancellation,Prepayment needed,2,230.0, 9.5,Room Only
+313,Anantara The Marker Dublin- A Leading Hotel of the World,"Dublin City Centre, Dublin",8.9,Excellent,3182,Double Premium,1 king bed,Check Policy,Prepayment needed,0,426.0,No rated,Room Only
+314,Horse & Hound,Delgany,8.5,Very Good,795,Bellevue- External Bathroom,Multiple bed types,Free cancellation,Prepayment needed,1,189.0,No rated,Room Only
+315,Glashaus Hotel,Tallaght,8.2,Very Good,1257,Standard Double Room,1 full bed,Free cancellation,Prepayment needed,2,219.0,No rated,Room Only
+316,"InterContinental Dublin, an IHG Hotel","Ballsbridge, Dublin",8.7,Excellent,854,Standard Double Room,1 king bed,Free cancellation,No prepayment needed,6,504.0,No rated,Room Only
+317,Killarney Plaza Hotel & Spa,Killarney,8.8,Excellent,3189,Deluxe King Room,1 queen bed,Check Policy,Prepayment needed,3,299.0, 9.8,Room Only
+318,The Leinster,"Dublin City Centre, Dublin",9.2,Wonderful,48,Standard King Room,1 full bed,Check Policy,Prepayment needed,3,350.0,No rated,Room Only
+319,The Lansdowne Hotel,"Ballsbridge, Dublin",7.5,Good,2243,Double Room,1 full bed,Free cancellation,No prepayment needed,5,284.0,No rated,Room Only
+320,The Galmont Hotel & Spa,Galway,8.2,Very Good,4070,Queen Room - Disability Access,1 king bed,Check Policy,Prepayment needed,0,320.0, 9.3,Breakfast included
+321,The Brehon Hotel & Spa,Killarney,9.0,Wonderful,1863,Superior Deluxe Double Room,1 queen bed,Check Policy,Prepayment needed,1,325.0,No rated,Room Only
+322,Hilton Dublin,"Dublin City Centre, Dublin",8.0,Very Good,2257,Superior Queen Room,1 queen bed,Check Policy,Prepayment needed,0,256.0,No rated,Room Only
+323,Hard Rock Hotel Dublin,"Temple Bar, Dublin",8.9,Excellent,3088,Standard Queen Room,1 queen bed,Free cancellation,Prepayment needed,3,359.0, 9.7,Room Only
+324,Brooks Hotel,"Saint Stephen's Green, Dublin",8.3,Very Good,953,Classic Double Room,1 full bed,Free cancellation,No prepayment needed,0,324.0, 9.7,Room Only
+325,Westgrove Hotel,Clane,7.9,Good,534,Double Room,1 full bed,Free cancellation,No prepayment needed,4,215.0,No rated,Room Only
+326,Falls Hotel & Spa,Ennistymon,8.2,Very Good,888,Double Room with Private Bathroom,1 full bed,Check Policy,Prepayment needed,0,341.0,No rated,Breakfast included
+327,Thirteen On The Green - Eyre Square,Galway,7.6,Good,2048,Twin Room,2 twin beds,Free cancellation,Prepayment needed,1,280.0, 9.4,Room Only
+328,Westport Coast Hotel,Westport,8.8,Excellent,1062,Twin Room,Multiple bed types,Check Policy,Prepayment needed,7,274.0,No rated,Breakfast included
+329,The Grafton Hotel,"Saint Stephen's Green, Dublin",8.7,Excellent,1924,Standard Double Room,1 full bed,Free cancellation,No prepayment needed,0,397.0, 9.8,Room Only
+330,Carlton Hotel Blanchardstown,Blanchardstown,8.1,Very Good,1983,Superior Double Room,1 full bed,Check Policy,Prepayment needed,0,210.0,No rated,Room Only
+331,Stella Maris Shore House,Ballycastle,9.2,Wonderful,142,Double Room with Garden View,1 full bed,Check Policy,Prepayment needed,2,220.0, 9.4,Breakfast included
+332,Moy Hotel,Mayo,8.6,Excellent,108,Small Double Room,1 full bed,Free cancellation,Prepayment needed,3,195.0,No rated,Breakfast included
+333,Ballyseede Castle,Tralee,9.2,Wonderful,951,Junior Castle Suite,1 king bed,Check Policy,Prepayment needed,1,438.0,No rated,Breakfast included
+334,Hotel Killarney,Killarney,8.0,Very Good,2729,Standard Double Room,1 king bed,Free cancellation,No prepayment needed,0,279.0,No rated,Breakfast included
+335,McGrory's Hotel,Culdaff,8.9,Excellent,303,Standard Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,2,175.0,No rated,Breakfast included
+336,Sandymount Hotel,"Ballsbridge, Dublin",8.5,Very Good,2252,Twin Room,2 twin beds,Check Policy,Prepayment needed,0,246.0,No rated,Room Only
+337,Sonder Mountjoy Square,"Dublin City Centre, Dublin",8.2,Very Good,1474,Superior Apartment,1 full bed,Check Policy,Prepayment needed,1,316.0,No rated,Room Only
+338,Dorrians Imperial Hotel,Ballyshannon,8.6,Excellent,360,Double Room,1 full bed,Free cancellation,No prepayment needed,3,140.0,No rated,Breakfast included
+339,Hotel Ceann Sibeal,Dingle,8.4,Very Good,770,Comfort Triple Room,"3 beds (2 twins, 1 queen)",Free cancellation,Prepayment needed,2,286.0,No rated,Breakfast included
+340,The Mayson,"Dublin City Centre, Dublin",8.3,Very Good,4313,Warehouse Suite,"2 beds (1 sofa bed, 1 queen)",Check Policy,Prepayment needed,3,659.0,No rated,Room Only
+341,Nox Hotel Galway,Galway,8.4,Very Good,4869,Double Room,1 full bed,Check Policy,Prepayment needed,0,266.0,No rated,Room Only
+342,The Merrion Hotel,"Saint Stephen's Green, Dublin",9.3,Wonderful,847,Double Room,1 full bed,Free cancellation,No prepayment needed,1,670.0, 9.8,Room Only
+343,The Connacht Hotel,Galway,8.3,Very Good,3786,Double Room,1 king bed,Free cancellation,Prepayment needed,4,269.0,No rated,Room Only
+344,The Wilder,"Dublin City Centre, Dublin",9.1,Wonderful,831,Shoebox Single Room,1 full bed,Free cancellation,Prepayment needed,1,409.0, 9.3,Room Only
+345,Staycity Aparthotels Dublin Castle,"Dublin City Centre, Dublin",8.8,Excellent,2203,Studio,1 queen bed,Check Policy,Prepayment needed,2,257.0, 9.4,Room Only
+346,Ferrycarrig Hotel,Wexford,8.6,Excellent,1245,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,5,276.0,No rated,Room Only
+347,The Rose Hotel,Tralee,8.7,Excellent,980,Deluxe Double Room,2 queen beds,Free cancellation,Prepayment needed,5,265.0,No rated,Room Only
+348,The Dean Dublin,"Saint Stephen's Green, Dublin",8.1,Very Good,2626,Small Double Room,1 full bed,Check Policy,Prepayment needed,7,329.0,No rated,Room Only
+349,Lord Bagenal Inn,Leighlinbridge,8.7,Excellent,554,Double Room,1 full bed,Free cancellation,No prepayment needed,2,245.0,No rated,Breakfast included
+350,Aspect Hotel Park West,Clondalkin,7.7,Good,1292,Standard Double Room,1 full bed,Free cancellation,No prepayment needed,0,194.0,No rated,Room Only
+351,The Fitzwilliam Hotel,"Saint Stephen's Green, Dublin",8.6,Excellent,1898,Garden View Room,1 full bed,Check Policy,Prepayment needed,0,381.0, 9.8,Room Only
+352,Castleknock Hotel,Blanchardstown,8.7,Excellent,2378,Standard Room,1 full bed,Free cancellation,Prepayment needed,0,246.0,No rated,Breakfast included
+353,Woodfield House Hotel,Limerick,8.0,Very Good,2075,Double Room,1 full bed,Free cancellation,No prepayment needed,4,199.0,No rated,Room Only
+354,Travelodge Plus Galway,Galway,8.2,Very Good,1635,Twin Room with Private Bathroom,"2 beds (1 twin, 1 king)",Free cancellation,No prepayment needed,5,219.0,No rated,Room Only
+355,The Hoban Hotel Kilkenny,Kilkenny,8.1,Very Good,1218,Deluxe Triple Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,1,324.0,No rated,Room Only
+356,Barberstown Castle,Straffan,8.8,Excellent,377,Double Room with Four Poster Bed,1 full bed,Free cancellation,Prepayment needed,2,290.0,No rated,Room Only
+357,White Sands Hotel,Portmarnock,7.0,Good,1499,Double or Twin Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,0,202.0,No rated,Room Only
+358,Dingle Skellig Hotel,Dingle,8.3,Very Good,273,Standard Double/Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,0,355.0, 9.3,Breakfast included
+359,Aloft Dublin City,"Dublin City Centre, Dublin",8.6,Excellent,1142,Aloft King Room,1 king bed,Free cancellation,No prepayment needed,7,609.0,No rated,Room Only
+360,The Morgan Hotel,"Temple Bar, Dublin",8.6,Excellent,1995,Signature Queen Room,1 queen bed,Free cancellation,No prepayment needed,4,317.0, 9.6,Room Only
+361,"The Shelbourne, Autograph Collection","Saint Stephen's Green, Dublin",8.7,Excellent,713,Large One-Bedroom King Suite,"3 beds (2 fulls, 1 king)",Free cancellation,No prepayment needed,2,2350.0, 9.7,Room Only
+362,The Davenport,"Dublin City Centre, Dublin",8.6,Excellent,909,Double Standard,1 queen bed,Check Policy,Prepayment needed,0,347.0, 9.4,Room Only
+363,Menlo Park Hotel,Galway,8.7,Excellent,4866,Double Room,1 queen bed,Free cancellation,Prepayment needed,0,226.0,No rated,Room Only
+364,Court Yard Hotel,Leixlip,8.4,Very Good,751,Superior Double Room,1 queen bed,Free cancellation,Prepayment needed,6,270.0,No rated,Breakfast included
+365,The Killarney Park,Killarney,9.5,Exceptional,447,Classic King Room,1 king bed,Check Policy,Prepayment needed,6,555.0, 9.8,Breakfast included
+366,Royal Valentia Hotel,Valentia Island,8.4,Very Good,864,Standard Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,1,140.0, 9.6,Breakfast included
+367,Dublin Citi Hotel of Temple Bar,"Temple Bar, Dublin",7.3,Good,1058,Double Room,1 full bed,Check Policy,Prepayment needed,4,252.0,No rated,Room Only
+368,Actons Hotel Kinsale,Kinsale,8.7,Excellent,388,Classic Double Room,1 full bed,Check Policy,Prepayment needed,2,320.0, 9.6,Breakfast included
+369,Kilkenny Pembroke Hotel,"Kilkenny City Centre, Kilkenny",8.6,Excellent,1433,Executive King Room,1 king bed,Check Policy,Prepayment needed,4,319.0, 9.7,Breakfast included
+370,Lough Eske Castle,Donegal,8.8,Excellent,662,Junior Suite,1 king bed,Free cancellation,No prepayment needed,1,717.0,No rated,Breakfast included
+371,Teac Jack,Bunbeg,8.7,Excellent,540,Double Room,1 full bed,Free cancellation,No prepayment needed,2,140.0, 9.4,Breakfast included
+372,Leixlip Manor Hotel,Leixlip,8.0,Very Good,2546,Superior Double Room - Manor House,1 king bed,Free cancellation,Prepayment needed,3,214.0,No rated,Room Only
+373,The Western Hotel,Galway,8.2,Very Good,3506,Standard Double Room,1 full bed,Free cancellation,Prepayment needed,2,285.0, 9.4,Room Only
+374,Grafton Street Studios by City Break Apartments,"Saint Stephen's Green, Dublin",8.3,Very Good,1496,Loft Studio,1 queen bed,Check Policy,Prepayment needed,0,342.0, 9.7,Room Only
+375,REZz Cork,Cork,6.9,Not Good,3955,Budget Double Room,1 full bed,Check Policy,Prepayment needed,0,150.0,No rated,Room Only
+376,Travelodge PLUS Dublin City Centre,"Dublin City Centre, Dublin",8.3,Very Good,4912,Superior Double Room,1 full bed,Free cancellation,No prepayment needed,5,249.0,No rated,Room Only
+377,The Snug Townhouse,Galway,8.5,Very Good,2458,The Cozy Room,1 queen bed,Free cancellation,Prepayment needed,3,329.0, 9.7,Room Only
+378,Hotel Curracloe,Curracloe,7.9,Good,1068,Double Room,1 full bed,Free cancellation,Prepayment needed,3,129.0,No rated,Room Only
+379,"Green Isle Hotel, Dublin",Clondalkin,7.2,Good,1945,Double Room,1 full bed,Check Policy,Prepayment needed,0,237.0,No rated,Room Only
+380,Avalon House Hotel,Castlecomer,8.7,Excellent,706,Small Double Room,1 full bed,Check Policy,Prepayment needed,1,279.0,No rated,Room Only
+381,Shamrock Inn Hotel,Lahinch,8.3,Very Good,344,Double Room,1 full bed,Free cancellation,No prepayment needed,2,195.0, 9.5,Room Only
+382,Óstán Oileán Acla,Achill Sound,8.1,Very Good,480,Family Room (2 Adults + 2 Children),"3 beds (2 twins, 1 full)",Check Policy,Prepayment needed,1,178.0,No rated,Breakfast included
+383,Baginbun Lodge,Fethard on Sea,8.8,Excellent,689,Double Room,1 full bed,Free cancellation,Prepayment needed,5,162.0,No rated,Breakfast included
+384,The Horse and Hound Hotel,Ballynabola,8.2,Very Good,423,Double or Twin Room,Multiple bed types,Check Policy,Prepayment needed,7,135.0,No rated,Room Only
+385,Killarney Heights Hotel,Killarney,8.4,Very Good,1807,Twin room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,0,251.0,No rated,Room Only
+386,Rochestown Lodge Hotel,Dun Laoghaire,8.1,Very Good,1637,Classic Double and Single Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,0,179.0,No rated,Room Only
+387,Vaughan Lodge Hotel,Lahinch,9.1,Wonderful,546,Deluxe King Studio,1 queen bed,Check Policy,Prepayment needed,1,300.0, 9.6,Breakfast included
+388,Summerhill House Hotel,Enniskerry,8.0,Very Good,1721,Twin Room,2 twin beds,Free cancellation,Prepayment needed,1,270.0,No rated,Breakfast included
+389,Troysgate House,"Kilkenny City Centre, Kilkenny",5.9,Not Good,190,Standard Double Room,1 full bed,Check Policy,Prepayment needed,0,229.0,No rated,Room Only
+390,Dublin One,"Dublin City Centre, Dublin",8.4,Very Good,6288,Standard Double Room,1 full bed,Check Policy,Prepayment needed,0,344.0,No rated,Room Only
+391,Keenans Boutique Hotel,Termonbarry,8.9,Excellent,385,Deluxe Twin Room,2 twin beds,Check Policy,Prepayment needed,1,184.0,No rated,Breakfast included
+392,Towers Hotel Glenbeigh,Glenbeigh,8.1,Very Good,396,Deluxe Double Room (no pets allowed),1 queen bed,Free cancellation,No prepayment needed,5,230.0,No rated,Breakfast included
+393,The Copper Still Bar,Dromod,8.6,Excellent,265,Deluxe Double Room with Shower,1 full bed,Free cancellation,No prepayment needed,6,139.0,No rated,Room Only
+394,The James Hotel,Tralee,9.1,Wonderful,86,Suite,2 queen beds,Free cancellation,No prepayment needed,1,570.0, 9.6,Room Only
+395,Glenlo Abbey Hotel,Galway,9.1,Wonderful,691,Classic King Room,1 queen bed,Check Policy,Prepayment needed,3,529.0, 9.4,Breakfast included
+396,Metro Hotel Dublin Airport,Santry,8.2,Very Good,5048,Double Room,1 queen bed,Free cancellation,Prepayment needed,4,211.0,No rated,Room Only
+397,O'Shea's Hotel,Tramore,8.0,Very Good,677,Triple Room (One Double and One Single Bed),"3 beds (2 twins, 1 queen)",Check Policy,Prepayment needed,1,177.0, 9.3,Room Only
+398,Zanzibar Locke,"Dublin City Centre, Dublin",9.2,Wonderful,5143,Locke Studio,1 queen bed,Check Policy,Prepayment needed,6,284.0, 9.8,Room Only
+399,The Sliding Rock Inn,Galway,7.8,Good,1754,Double Room,1 full bed,Free cancellation,No prepayment needed,1,210.0,No rated,Breakfast included
+400,Greenhills Hotel Limerick,Limerick,7.9,Good,1750,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,Prepayment needed,4,229.0,No rated,Room Only
+401,"Keavan's Port Hotel , Dublin","Dublin City Centre, Dublin",8.5,Very Good,6998,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,Prepayment needed,5,229.0,No rated,Room Only
+402,Handel's Hotel,"Temple Bar, Dublin",8.0,Very Good,2387,Standard Double Room,1 queen bed,Free cancellation,No prepayment needed,1,219.0, 9.5,Room Only
+403,Cork's Vienna Woods Hotel & Villas,Cork,8.6,Excellent,1327,Double Standard,1 full bed,Check Policy,Prepayment needed,0,229.0,No rated,Room Only
+404,Temple Bar Lane,"Temple Bar, Dublin",7.1,Good,3480,Double Room,1 full bed,Check Policy,Prepayment needed,3,229.0, 9.3,Room Only
+405,Gleesons Townhouse Booterstown,Dublin,9.1,Wonderful,881,Double or Twin Room,Multiple bed types,Free cancellation,Prepayment needed,1,209.0,No rated,Room Only
+406,Kilford Arms,"Kilkenny City Centre, Kilkenny",7.9,Good,1182,Double Room,1 full bed,Check Policy,Prepayment needed,0,246.0, 9.3,Room Only
+407,"Staycity Aparthotels, Dublin, Christchurch","Dublin City Centre, Dublin",9.0,Wonderful,831,Two-Bedroom Apartment,"3 beds (2 fulls, 1 sofa bed)",Free cancellation,No prepayment needed,1,497.0, 9.4,Room Only
+408,Bellinter House,Navan,8.0,Very Good,631,Deluxe Double Room,1 queen bed,Free cancellation,No prepayment needed,6,324.0,No rated,Breakfast included
+409,The Gleneagle Hotel & Apartments,Killarney,8.2,Very Good,1638,Double Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,0,231.0,No rated,Breakfast included
+410,The Address Sligo,Sligo,7.5,Good,403,Twin Room,"2 beds (1 twin, 1 king)",Free cancellation,No prepayment needed,5,205.0,No rated,Room Only
+411,"The House Hotel, an Ascend Hotel Collection Member",Galway,8.2,Very Good,1094,Standard Double or Twin Room,Multiple bed types,Free cancellation,No prepayment needed,2,314.0, 9.6,Breakfast included
+412,Wellington Temple Bar,"Temple Bar, Dublin",8.3,Very Good,220,Double Room- no windows,1 full bed,Check Policy,Prepayment needed,5,280.0, 9.6,Room Only
+413,Roganstown Hotel & Country Club,Swords,7.6,Good,1143,Classic Triple Room,"2 beds (1 twin, 1 full)",Free cancellation,Prepayment needed,0,219.0,No rated,Room Only
+414,Ashling Hotel Dublin,"Dublin City Centre, Dublin",8.6,Excellent,3522,Classic Double Room,1 full bed,Free cancellation,No prepayment needed,1,289.0,No rated,Room Only
+415,Corbett Court,Fermoy,8.1,Very Good,272,Twin Room,"2 beds (1 twin, 1 full)",Free cancellation,No prepayment needed,6,180.0,No rated,Breakfast included
+416,Knockranny House Hotel & Spa,Westport,8.6,Excellent,360,Double Standard,1 full bed,Check Policy,Prepayment needed,0,290.0,No rated,Breakfast included
+417,Jackson Court Hotel,"Saint Stephen's Green, Dublin",6.7,Not Good,2875,Cozy Double Room,1 full bed,Check Policy,Prepayment needed,6,239.0,No rated,Room Only
+418,Kilcooly's Country House Hotel,Ballybunion,9.1,Wonderful,106,Deluxe Double Room,1 queen bed,Check Policy,Prepayment needed,4,180.0, 9.5,Room Only
+419,REZz Dublin,"Temple Bar, Dublin",7.8,Good,1984,Double Room,1 queen bed,Free cancellation,No prepayment needed,0,230.0, 9.4,Room Only
+420,The Cliff House Hotel,Ballybunion,8.2,Very Good,316,Standard Twin Room,2 twin beds,Free cancellation,No prepayment needed,1,240.0, 9.4,Breakfast included
+421,Park House Hotel,Galway,8.5,Very Good,1821,Superior Double Room,1 full bed,Free cancellation,No prepayment needed,3,315.0, 9.6,Breakfast included
+422,Kilmurry Lodge Hotel,Limerick,8.2,Very Good,1485,Double Classic,1 full bed,Check Policy,Prepayment needed,0,211.0,No rated,Room Only
+423,Trident Hotel Kinsale,Kinsale,8.7,Excellent,381,Harbor View Room,1 king bed,Check Policy,Prepayment needed,2,360.0, 9.6,Breakfast included
+424,The Carraig Hotel,Carrick-on-Suir,8.6,Excellent,252,Double Room,1 full bed,Free cancellation,Prepayment needed,6,160.0,No rated,Breakfast included
+425,Moycarn Lodge & Marina,Ballinasloe,9.1,Wonderful,258,Deluxe Double Room with Balcony,1 full bed,Free cancellation,Prepayment needed,5,172.0,No rated,Breakfast included
+426,Point A Hotel Dublin Parnell Street,"Dublin City Centre, Dublin",8.5,Very Good,5878,Double Room,1 full bed,Check Policy,Prepayment needed,0,301.0,No rated,Room Only
+427,Clontarf Castle Hotel,"Clontarf, Dublin",8.9,Excellent,3108,Standard Double Room,1 full bed,Free cancellation,No prepayment needed,0,439.0,No rated,Room Only
+428,The g Hotel,Galway,8.3,Very Good,2005,Atrium Suite,1 king bed,Free cancellation,Prepayment needed,1,731.0,No rated,Breakfast included
+429,Powerscourt Springs Health Farm,Wicklow,8.1,Very Good,639,Double Room,1 full bed,Check Policy,Prepayment needed,5,230.0,No rated,Breakfast included
+430,Ashley Hotel,Cork,6.3,Not Good,1256,Double Room,1 full bed,Free cancellation,No prepayment needed,1,170.0,No rated,Room Only
+431,The Mont,"Dublin City Centre, Dublin",8.9,Excellent,1491,Double Classic King Bed,1 full bed,Check Policy,Prepayment needed,0,342.0, 9.5,Room Only
+432,Rathkeale House Hotel,Limerick,8.0,Very Good,725,Deluxe Double Room (2 Adults + 1 Child),2 queen beds,Free cancellation,No prepayment needed,3,160.0,No rated,Room Only
+433,Conrad Dublin,"Saint Stephen's Green, Dublin",8.5,Very Good,764,Superior King Room,1 king bed,Check Policy,Prepayment needed,0,380.0,No rated,Room Only
+434,Broc House Suites,"Ballsbridge, Dublin",8.6,Excellent,1944,One-Bedroom Apartment,"2 beds (1 sofa bed, 1 queen)",Check Policy,Prepayment needed,6,231.0,No rated,Room Only
+435,Shannon Springs Hotel,Shannon,8.6,Excellent,1219,Superior King Room,1 king bed,Free cancellation,Prepayment needed,4,254.0,No rated,Breakfast included
+436,Travelodge Dublin City Rathmines,"Rathmines, Dublin",7.4,Good,1980,Double Room (2 Adults Only),1 full bed,Free cancellation,No prepayment needed,0,259.0,No rated,Room Only
+437,Sliabh Beagh Hotel,Monaghan,8.4,Very Good,76,Classic Quadruple Room,"3 beds (2 twins, 1 full)",Check Policy,Prepayment needed,0,125.0,No rated,Room Only
+438,The Gate Hotel,"Parnell Square, Dublin",6.1,Not Good,3246,Double Room,1 full bed,Check Policy,Prepayment needed,0,211.0,No rated,Room Only
+439,Phoenix Park Hotel,Dublin,7.6,Good,3134,Double Room,1 full bed,Check Policy,Prepayment needed,3,206.0,No rated,Room Only
+440,The Devlin Dublin,"Ballsbridge, Dublin",8.7,Excellent,1332,Small Double Room,1 full bed,Check Policy,Prepayment needed,0,279.0,No rated,Room Only
+441,Hilton Dublin Airport,Cloghran,7.9,Good,1663,Double Room,1 full bed,Check Policy,Prepayment needed,3,246.0,No rated,Room Only
+442,St Bridget's Apartments,Galway,8.1,Very Good,934,Two-Bedroom Apartment (3 Adults),"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,1,315.0, 9.3,Room Only
+443,Carrigaline Court Hotel & Leisure Centre,Cork,8.6,Excellent,1473,Double Room,1 full bed,Free cancellation,Prepayment needed,7,212.0,No rated,Room Only
+444,Wynn's Hotel,"Dublin City Centre, Dublin",8.5,Very Good,4130,Double Room,1 full bed,Free cancellation,No prepayment needed,0,269.0, 9.6,Breakfast included
+445,Quinlan & Cooke Boutique Townhouse and QCs Seafood Restaurant,Cahersiveen,9.0,Wonderful,490,Deluxe Double Room,1 queen bed,Check Policy,Prepayment needed,0,229.0, 9.3,Breakfast included
+446,The Westwood Summer Accommodation,Galway,8.0,Very Good,710,Double Room with Ensuite,1 full bed,Check Policy,Prepayment needed,0,199.0,No rated,Room Only
+447,Chester Beatty Inn,Ashford,9.1,Wonderful,497,Deluxe King Room,1 king bed,Free cancellation,Prepayment needed,1,220.0,No rated,Breakfast included
+448,The Bosun,Monkstown,8.2,Very Good,626,Double Room with Sea View,1 full bed,Check Policy,Prepayment needed,6,187.0,No rated,Breakfast included
+449,Maryborough Hotel & Spa,Cork,8.4,Very Good,1167,Deluxe Double or Twin Room,Multiple bed types,Free cancellation,No prepayment needed,6,269.0,No rated,Breakfast included
+450,Roxford Lodge Hotel,"Ballsbridge, Dublin",9.0,Wonderful,1986,Budget Unrenovated Double Room,1 full bed,Free cancellation,Prepayment needed,1,209.0,No rated,Room Only
+451,Great National South Court Hotel,Limerick,8.1,Very Good,1193,Double Room,1 full bed,Check Policy,Prepayment needed,0,179.0,No rated,Breakfast included
+452,Blarney Castle Hotel,Blarney,9.2,Wonderful,621,Double Room,1 full bed,Check Policy,Prepayment needed,1,189.0, 9.6,Breakfast included
+453,The Inn at Dromoland,Newmarket on Fergus,8.0,Very Good,989,Family Room ( 2 Adults + 2 Children),"3 beds (2 twins, 1 full)",Check Policy,Prepayment needed,0,229.0,No rated,Room Only
+454,The Draper Rooms,"Dublin City Centre, Dublin",8.4,Very Good,1124,Deluxe Double Room,1 full bed,Free cancellation,Prepayment needed,2,199.0,No rated,Room Only
+455,53 Luxury Rooms,Maynooth,9.4,Wonderful,18,Deluxe Double Room,1 queen bed,Free cancellation,Prepayment needed,1,295.0, 9.7,Room Only
+456,Torc Hotel,Killarney,8.1,Very Good,485,Standard Double Room,1 full bed,Check Policy,Prepayment needed,4,219.0,No rated,Breakfast included
+457,The Camden Street Hotel,"Dublin City Centre, Dublin",6.8,Not Good,2057,Double Room,1 full bed,Free cancellation,Prepayment needed,0,320.0,No rated,Room Only
+458,Feerick's Hotel,Rathowen,8.5,Very Good,379,Twin Room,2 twin beds,Free cancellation,Prepayment needed,1,150.0,No rated,Breakfast included
+459,Ruby Molly Hotel Dublin,"Dublin City Centre, Dublin",8.5,Very Good,109,Lovely Room,1 queen bed,Check Policy,Prepayment needed,0,233.0,No rated,Room Only
+460,Cashel House Hotel,Roundstone,8.8,Excellent,400,Double Room,1 queen bed,Check Policy,Prepayment needed,1,300.0,No rated,Breakfast included
+461,Ardagh Hotel & Restaurant,Clifden,9.0,Wonderful,519,Triple Room (1 Double Bed + 1 Single Bed),"2 beds (1 twin, 1 king)",Check Policy,Prepayment needed,1,262.0,No rated,Breakfast included
+462,Sheen Falls Lodge,Kenmare,9.0,Wonderful,318,Superior Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,3,530.0, 9.7,Breakfast included
+463,The Residence Hotel,Galway,8.5,Very Good,626,Standard Double Room,1 queen bed,Free cancellation,Prepayment needed,3,319.0, 9.6,Room Only
+464,Stauntons on the Green Hotel,"Saint Stephen's Green, Dublin",9.1,Wonderful,2022,Small Double Room,1 full bed,Free cancellation,Prepayment needed,2,329.0, 9.7,Room Only
+465,Inchydoney Island Lodge & Spa,Clonakilty,8.9,Excellent,195,Double or Twin Room with Terrace,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,1,380.0, 9.8,Breakfast included
+466,Kellys Hotel,"Saint Stephen's Green, Dublin",8.0,Very Good,779,Penthouse Suite,2 queen beds,Check Policy,Prepayment needed,1,761.0, 9.4,Room Only
+467,Uppercross House Hotel,"Rathmines, Dublin",8.3,Very Good,764,Double Room,1 full bed,Check Policy,Prepayment needed,4,246.0,No rated,Breakfast included
+468,Dylan,"Ballsbridge, Dublin",8.9,Excellent,95,Deluxe King Room,1 king bed,Free cancellation,No prepayment needed,0,505.0,No rated,Room Only
+469,Rathbaun Hotel,Lisdoonvarna,8.7,Excellent,468,Double Room,1 full bed,Free cancellation,No prepayment needed,2,210.0,No rated,Room Only
+470,The Dunloe Hotel & Gardens,Killarney,9.1,Wonderful,412,Garden Twin / Double Room,Multiple bed types,Check Policy,Prepayment needed,1,345.0, 9.5,Breakfast included
+471,Hotel67,Killarney,8.0,Very Good,178,Double Room,1 full bed,Check Policy,Prepayment needed,4,225.0,No rated,Breakfast included
+472,Waterloo Town House & Suites,"Ballsbridge, Dublin",8.5,Very Good,1178,King Room,1 queen bed,Check Policy,Prepayment needed,1,335.0,No rated,Room Only
+473,Great Southern Killarney,Killarney,8.6,Excellent,350,Family Room,"2 beds (1 twin, 1 full)",Check Policy,Prepayment needed,2,498.0, 9.6,Room Only
+474,Mount Falcon Estate,Ballina,8.0,Very Good,159,Superior Double Room,1 full bed,Free cancellation,No prepayment needed,4,340.0,No rated,Breakfast included
+475,Seaview House Hotel,Bantry,8.5,Very Good,171,Double Standard,1 full bed,Check Policy,Prepayment needed,0,225.0,No rated,Breakfast included
+476,Park Hotel Kenmare,Kenmare,9.1,Wonderful,162,Superior Double or Twin Room with Garden View,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,5,635.0, 9.6,Room Only
+477,Station View Tavern,Cork,6.9,Not Good,418,Double Room,1 full bed,Free cancellation,No prepayment needed,2,180.0,No rated,Room Only
+478,Sonder The Earl,"Saint Stephen's Green, Dublin",7.7,Good,300,Double Room,1 full bed,Check Policy,Prepayment needed,1,219.0,No rated,Room Only
+479,Castle Grove Country House Hotel,Letterkenny,9.1,Wonderful,143,Double Room,1 full bed,Free cancellation,No prepayment needed,4,185.0, 9.4,Breakfast included
+480,The Auld Dubliner,"Temple Bar, Dublin",7.6,Good,89,Double Room,1 full bed,Check Policy,Prepayment needed,3,230.0,No rated,Room Only
+481,The North Pole,Drumfree,9.2,Wonderful,65,Large Twin Room,2 twin beds,Free cancellation,Prepayment needed,1,120.0,No rated,Breakfast included
+482,Dublin Castle Suites,"Temple Bar, Dublin",8.5,Very Good,25,Standard Suite,1 full bed,Check Policy,Prepayment needed,1,253.0, 9.4,Room Only
+483,Sheedys Boutique Hotel & Restaurant,Lisdoonvarna,9.3,Wonderful,206,Double Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,1,235.0,No rated,Breakfast included
+484,Killarney Royal Hotel,Killarney,8.9,Excellent,157,Double Room,1 full bed,Check Policy,Prepayment needed,0,362.0, 9.6,Breakfast included
+485,Tiernan's Luxury King Room Ensuite,Charlestown,9.7,Exceptional,38,Double Room with Private Bathroom,1 king bed,Check Policy,Prepayment needed,0,135.0, 9.3,Room Only
+486,Hayfield Manor,Cork,8.9,Excellent,183,Manor Room,1 queen bed,Check Policy,Prepayment needed,0,508.0,No rated,Room Only
+487,The Bailie,Cavan,8.8,Excellent,32,Budget Double Room,1 full bed,Free cancellation,Prepayment needed,4,155.0,No rated,Breakfast included
+488,The Station House Hotel,Kilmessan,8.9,Excellent,39,Standard Double Room,1 full bed,Free cancellation,No prepayment needed,5,310.0,No rated,Breakfast included
+489,Greenfield Lodge Hotel Bar & Bistro,Headford,6.3,Not Good,3,Double Room with Lake View,1 full bed,Free cancellation,Prepayment needed,1,180.0,No rated,Breakfast included
+490,John Eoinìn's Bar and accommodation,Glencolumbkille,9.6,Exceptional,14,Double Room with Sea View,1 full bed,Check Policy,Prepayment needed,2,110.0, 9.5,Room Only
+491,Carrick Gate,Carrick,9.3,Wonderful,15,Twin Room,2 twin beds,Check Policy,Prepayment needed,5,125.0, 9.7,Breakfast included
+493,The Acres B&B,Killala,7.9,Good,467,Deluxe Double Room,1 full bed,Free cancellation,No prepayment needed,3,130.0,No rated,Breakfast included
+494,The Lanterns Hotel,Tarbert,7.4,Good,57,Standard Twin Room,2 twin beds,Check Policy,Prepayment needed,4,130.0,No rated,Room Only
+495,Doolin House,Doolin,7.4,Good,72,Double Room,1 full bed,Free cancellation,Prepayment needed,2,120.0,No rated,Room Only
+496,Ravine Hotel,Lisdoonvarna,7.8,Good,334,Double Room with Private Bathroom,1 full bed,Free cancellation,Prepayment needed,2,150.0,No rated,Breakfast included
+497,White Sands Hotel,Ballyheigue,8.0,Very Good,168,Double or Twin Room,Beds: 1 double or 2 twins,Free cancellation,Prepayment needed,2,180.0, 9.3,Breakfast included
+498,Upton Court Hotel,Kilmuckridge,7.6,Good,136,Double or Twin Room,Beds: 1 double or 2 twins,Check Policy,Prepayment needed,1,140.0,No rated,Breakfast included
+499,The Abbeyleix Manor Hotel,Abbeyleix,8.0,Very Good,1444,Single Room,2 twin beds,Free cancellation,Prepayment needed,0,298.0,No rated,Room Only
+500,New Park Hotel Athenry,Athenry,7.3,Good,244,Single Room,2 twin beds,Free cancellation,No prepayment needed,0,250.0,No rated,Room Only
