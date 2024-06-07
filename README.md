@@ -3,6 +3,9 @@
 
 This project involves scraping data from Booking.com for hotels in Ireland, specifically focusing on prices for one night on a weekend. The raw data was collected using the "Instant Data Scraper" tool and subsequently cleaned and analyzed using Python and SQL. Finally, Power BI was used to create a dashboard for visual insights.
 
+![image](https://github.com/caio-moliveira/hotels-ireland-python-sql-powerBI/assets/150807759/9c7d35a9-0b53-4d7e-ba93-019ee822e821)
+
+
 ## Data Collection
 
 The initial dataset consisted of 502 rows and 16 columns, with each row representing a hotel and the columns as follows:
